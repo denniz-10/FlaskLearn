@@ -1,0 +1,13 @@
+.idea
+.gitignore
+.idea/BetaFlask.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+app.py
+static/
+templates/
+venv/Include/
+venv/Lib/
+venv/Scripts/
+venv/pyvenv.cfg
